@@ -6,7 +6,6 @@
 ## Script Categories
 
 - 🐍 **python_scripts:** Python scripts tailored for data migration/load/ETL.
-- 🔄 **bash_scripts:** Bash scripts crafted for specific data operations.
 - 📜 **sql_scripts:** SQL scripts addressing various database tasks.
 
 ## 📖 Getting Started
